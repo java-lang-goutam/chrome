@@ -1,0 +1,15 @@
+#statuspanel #statuspanel-label {
+    -moz-appearance: none !important;
+    background-color: #000 !important;
+    font-family: 'Monaco' !important; /* font you want*/
+    font-size: x-small;
+    color: #00fd3f !important; /*text color*/
+    border: 1px solid black !important;
+}
+        
+#statuspanel {
+    background-color: transparent !important;
+    border: none !important;
+    max-width: 50% !important; /* Change the value to suite your needs */
+    transition: none !important;
+}
